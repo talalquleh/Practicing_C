@@ -1,4 +1,3 @@
-Baggage-allowance-Program
 This program is written in C, mainly using switch cases and dynamic memory manipulation.
 
 Program idea
