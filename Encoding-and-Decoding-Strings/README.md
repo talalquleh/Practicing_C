@@ -1,4 +1,4 @@
-#Program idea
+Program idea
 encoding strings is done like this:
 aaabbccc -> (a, 3) (b, 2) (c, 3)
 and decoding strings is the exact opposite.
